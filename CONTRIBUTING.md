@@ -82,6 +82,8 @@ npm publish                     # prepublishOnly 会自动跑 check + test
 
 发完把新版本号同步到本文件与 `CHANGELOG.md`，再在插件商场刷新索引即可。
 
+> 第一次发布、需要一步步点 GitHub Desktop 的，看 [docs/发布教程.md](docs/发布教程.md)。
+
 ## 补一张截图
 
 `docs/screenshot.png` 本仓库还没放（作者截一张就行）：
