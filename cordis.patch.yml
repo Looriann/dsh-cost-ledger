@@ -1,0 +1,18 @@
+# dsh-cost-ledger bundle patch.
+#
+# 这一行把本包的 main 入口（lib/index.js）作为 HOST 半边加载：
+# 它是个普通 Cordis 插件，订阅 `session/event`、在本地维护账本、
+# 并注册 /api/cost-ledger/* 路由。
+#
+# package.json 里的 `dsh.client` 声明会让 Web 端额外加载 lib/client.js
+# 作为 BROWSER 半边，它往会话标签栏加一个「费用」标签。
+#
+# 安装（desktop profile）：
+#   dsh plugin --profile desktop add @looriann/dsh-cost-ledger
+#   dsh plugin --profile desktop add link:<本地路径>    # 开发时用
+#
+# `id` 是插件的稳定标识，会写进 profile 的 cordis.patch.yml；
+# 改名会让已装的插件变成孤儿条目，所以保持 cost-ledger 不变。
+- insert:
+    - id: cost-ledger
+      name: "@looriann/dsh-cost-ledger"

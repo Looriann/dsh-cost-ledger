@@ -1,0 +1,2846 @@
+{
+  "v": 1,
+  "meta": {
+    "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+    "fetchedAt": 1793840206551
+  },
+  "rows": [
+    {
+      "provider": "bailian",
+      "model": "qwen3.8-max",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.8-max-0902",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-max",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-max-2026-06-08",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-max-2026-05-20",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-max-preview",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-max-2026-05-17",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-max",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 9.6
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 2,
+          "output": 8
+        },
+        {
+          "maxPrompt": null,
+          "input": 24,
+          "output": 24
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-plus-2026-05-26",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 2,
+          "output": 8
+        },
+        {
+          "maxPrompt": null,
+          "input": 24,
+          "output": 24
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.6-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 2,
+          "output": 12
+        },
+        {
+          "maxPrompt": null,
+          "input": 48,
+          "output": 48
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.6-plus-2026-04-02",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 2,
+          "output": 12
+        },
+        {
+          "maxPrompt": null,
+          "input": 48,
+          "output": 48
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.8,
+          "output": 4.8
+        },
+        {
+          "maxPrompt": null,
+          "input": 12,
+          "output": 12
+        },
+        {
+          "maxPrompt": null,
+          "input": 24,
+          "output": 24
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-plus-2026-04-20",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.8,
+          "output": 4.8
+        },
+        {
+          "maxPrompt": null,
+          "input": 12,
+          "output": 12
+        },
+        {
+          "maxPrompt": null,
+          "input": 24,
+          "output": 24
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-plus-2026-02-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.8,
+          "output": 4.8
+        },
+        {
+          "maxPrompt": null,
+          "input": 12,
+          "output": 12
+        },
+        {
+          "maxPrompt": null,
+          "input": 24,
+          "output": 24
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.8,
+          "output": 2
+        },
+        {
+          "maxPrompt": null,
+          "input": 20,
+          "output": 24
+        },
+        {
+          "maxPrompt": null,
+          "input": 48,
+          "output": 64
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-latest",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.8,
+          "output": 2
+        },
+        {
+          "maxPrompt": null,
+          "input": 20,
+          "output": 24
+        },
+        {
+          "maxPrompt": null,
+          "input": 48,
+          "output": 64
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-2025-12-01",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.8,
+          "output": 2
+        },
+        {
+          "maxPrompt": null,
+          "input": 20,
+          "output": 24
+        },
+        {
+          "maxPrompt": null,
+          "input": 48,
+          "output": 64
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-2025-07-14",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-2025-04-28",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-2025-01-25",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-2025-01-12",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-2024-12-20",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.8-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 0.8,
+          "output": 2.7
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 32000,
+          "input": 0.2,
+          "output": 0.8
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.7-flash-2026-07-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 32000,
+          "input": 0.2,
+          "output": 0.8
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.6-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 256000,
+          "input": 1.2,
+          "output": 7.2
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.6-flash-2026-04-16",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 256000,
+          "input": 1.2,
+          "output": 7.2
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 128000,
+          "input": 0.2,
+          "output": 2
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-flash-2026-02-23",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 128000,
+          "input": 0.2,
+          "output": 2
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 128000,
+          "input": 0.15,
+          "output": 1.5
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-flash-2025-07-28",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 128000,
+          "input": 0.15,
+          "output": 1.5
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-long",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 7,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 53
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-plus-2026-03-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 7,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 53
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 18
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-flash-2026-03-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 18
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3-omni-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 15.8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-plus-realtime",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 10,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 80
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-plus-realtime-2026-03-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 10,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 80
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-flash-realtime",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 3.3,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-omni-flash-realtime-2026-03-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 3.3,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3-omni-flash-realtime-2025-09-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 18.9
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3-vl-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 32000,
+          "input": 1,
+          "output": 10
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-ocr",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-vl-ocr",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.3,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 0.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-vl-ocr-2025-11-20",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.3,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 0.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-vl-ocr-2024-10-28",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3-coder-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 32000,
+          "input": 1,
+          "output": 4
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3-coder-flash-2025-07-28",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 32000,
+          "input": 1,
+          "output": 4
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-mt-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 5.4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-mt-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.7,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 1.95
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-mt-lite",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.6,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 1.6
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-doc-turbo",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.6,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 1
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-deep-research",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 54,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 163
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-deep-research-2025-12-15",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 79,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 236
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "tongyi-xiaomi-analysis-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 0.4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "tongyi-xiaomi-analysis-pro",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2.7
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.8-2.4t-a95b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 12,
+          "output": 36
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.8-27b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 3,
+          "output": 12
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.6-35b-a3b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 10.8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.6-27b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 3,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 18
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-397b-a17b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 1.2,
+          "output": 7.2
+        },
+        {
+          "maxPrompt": null,
+          "input": 18,
+          "output": 18
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-122b-a10b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.8,
+          "output": 6.4
+        },
+        {
+          "maxPrompt": null,
+          "input": 16,
+          "output": 16
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-27b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.6,
+          "output": 4.8
+        },
+        {
+          "maxPrompt": null,
+          "input": 14.4,
+          "output": 14.4
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-35b-a3b",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": null,
+          "input": 0.4,
+          "output": 3.2
+        },
+        {
+          "maxPrompt": null,
+          "input": 12.8,
+          "output": 12.8
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "deepseek-v4.1-flash-1017",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "deepseek-v4.1-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "deepseek-v4-pro",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 12,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 24
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "deepseek-v4-pro-0813",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 9,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "deepseek-v4-flash-0731",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 3,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 9
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "siliconflow/deepseek-v3.2",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 3
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "siliconflow/deepseek-v3.1-terminus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 12
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "siliconflow/deepseek-r1-0528",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 16
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "siliconflow/deepseek-v3-0324",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-v3.2-think",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 3
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-v3.1-terminus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 12
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-r1",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 16
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-v3",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-ocr",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.216,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 0.216
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-v4-pro",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 12,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 24
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-v4-pro-0813",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 9,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "vanchin/deepseek-v4.1-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi-k3",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 20,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 100
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi-k2.7-code",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 6.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi-k2.6",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 6.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi-k2.5",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 21
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi/kimi-k3.1-pro-highspeed",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 26,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 136
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi/kimi-k3.1-pro",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 13,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 68
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi/kimi-k3",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 20,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 100
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi/kimi-k2.7-code-highspeed",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 13,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 54
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi/kimi-k2.7-code",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 6.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi/kimi-k2.6",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 6.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 27
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "kimi/kimi-k2.5",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 21
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "glm-5.3",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 28
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "glm-5.2",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 28
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "glm-5.2-fast-preview",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 16,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 56
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "glm-5.3-prime",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 16,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 56
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "glm-5.1",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 32000,
+          "input": 6,
+          "output": 24
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "glm-5",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 32000,
+          "input": 4,
+          "output": 18
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "ZHIPU/GLM-5.3",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 28
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "ZHIPU/GLM-5.3-Flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2.8
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "ZHIPU/GLM-5.3-FlashX",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 7
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "ZHIPU/GLM-5.2",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 28
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "ZHIPU/GLM-5.1",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 28
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "ZHIPU/GLM-5",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 6,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 22
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "MiniMax-M2.5",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8.4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "MiniMax/MiniMax-M3.1-Flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "MiniMax/MiniMax-M3",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8.4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "MiniMax/MiniMax-M2.7",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8.4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "MiniMax/MiniMax-M2.5",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8.4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "MiniMax/MiniMax-M2.1",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2.1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8.4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "xiaomi/mimo-v2.6-pro-ultraspeed",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 1000000,
+          "input": 30,
+          "output": 60
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "xiaomi/mimo-v2.5-pro",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": null,
+      "tiers": [
+        {
+          "maxPrompt": 256000,
+          "input": 7,
+          "output": 21
+        }
+      ],
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "stepfun/step-3.7-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.35,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 8.1
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "stepfun/step-5-preview",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 7,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 20
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "unisound/unisound-u2",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "antdigital/Ling-3.1-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 2,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 6
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-image-3.0-pro",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.02,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 0.25
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-image-3.0",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.02,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 0.18
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.1-tts-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 12
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-tts-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.6,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 10
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.8-livetranslate-flash-realtime",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 40,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 3.3
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-livetranslate-flash-realtime",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 40,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 3.3
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3.5-livetranslate-flash-realtime-2026-05-19",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 40,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 3.3
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3-livetranslate-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 10,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen3-livetranslate-flash-2025-12-01",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 10,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 4
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.1-asr-flash-message",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 6,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 4.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.1-asr-flash-streaming",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 6,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 4.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.1-asr-flash-filetrans",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2.7
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.1-asr-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2.7
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.1-realtime-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 40
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.1-realtime-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 6
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.0-realtime-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 40
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-audio-3.0-realtime-flash",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 6
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "tongyi-intent-detect-v3",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.4,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 1
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-character",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.8,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 2
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-flash-character",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.25,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 1.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-flash-character-2026-02-26",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 0.18,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 1.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "qwen-plus-character-ja",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 3.67,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 10.275
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "gui-plus",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 4.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    },
+    {
+      "provider": "bailian",
+      "model": "gui-plus-2026-02-26",
+      "currency": "CNY",
+      "unit": "1M",
+      "buckets": {
+        "input": 1.5,
+        "cacheRead": null,
+        "cacheWrite": null,
+        "output": 4.5
+      },
+      "tiers": null,
+      "source": "official",
+      "sourceUrl": "https://help.aliyun.com/zh/model-studio/model-pricing.md",
+      "fetchedAt": 1793840206551,
+      "verifiedAt": null,
+      "confidence": "official",
+      "note": "阿里云百炼官方价目页"
+    }
+  ]
+}

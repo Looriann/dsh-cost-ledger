@@ -1,0 +1,85 @@
+{
+  "name": "@looriann/dsh-cost-ledger",
+  "version": "0.1.0",
+  "description": "DSH 插件：会认「服务商 + 模型」的 token 费用账本。按天图表对齐 DeepSeek 官方控制台，内置阿里百炼官方价目表，查不到价的模型留空手填，绝不瞎猜。",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": {
+    ".": "./lib/index.js",
+    "./client": "./lib/client.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "data/prices.seed.json",
+    "scripts",
+    "cordis.patch.yml",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "cost",
+    "token",
+    "usage",
+    "pricing",
+    "bailian",
+    "qwen",
+    "ledger",
+    "费用",
+    "用量",
+    "百炼"
+  ],
+  "author": {
+    "name": "Looriann",
+    "url": "https://github.com/Looriann"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Looriann/dsh-cost-ledger.git"
+  },
+  "homepage": "https://github.com/Looriann/dsh-cost-ledger#readme",
+  "bugs": {
+    "url": "https://github.com/Looriann/dsh-cost-ledger/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": "^22.19.0 || >=24.0.0"
+  },
+  "scripts": {
+    "check": "node --check lib/index.js && node --check lib/client.js && node --check lib/ledger.js && node --check lib/pricing.js && node --check lib/ingest.js && node --check lib/routes.js && node --check lib/backfill.js && node --check lib/store.js",
+    "test": "node test/run.mjs && node test/plugin-smoke.mjs",
+    "replay": "node scripts/replay.mjs",
+    "prices": "node scripts/fetch-prices.mjs --write",
+    "seed": "node scripts/build-seed.mjs",
+    "rename": "node scripts/rename.mjs",
+    "prepublishOnly": "npm run check && npm test",
+    "pack": "npm pack"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-api-remotes",
+        "@deepseek-ai/dsh-client-connection",
+        "@deepseek-ai/dsh-client-locale",
+        "@deepseek-ai/dsh-client-ui-conversation"
+      ]
+    },
+    "compatibility": {
+      "dshReleases": {
+        "0.2.0-rc.2": "compatible",
+        "0.2.1-rc.2": "compatible"
+      }
+    }
+  }
+}
