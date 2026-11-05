@@ -6,7 +6,7 @@
 > 界面照着 DeepSeek 官方控制台做：按天堆叠柱状图、鼠标一悬停就看到当天明细。
 
 
-![费用标签页](images/screenshot.png)
+![费用标签页](https://raw.githubusercontent.com/Looriann/dsh-cost-ledger/main/images/screenshot.png)
 
 ---
 
