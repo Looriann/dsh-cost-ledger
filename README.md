@@ -42,13 +42,19 @@
 
 ## 安装
 
-**方式一：插件商场** —— 搜索 `cost-ledger`（完整包名 `@looriann/dsh-cost-ledger`），点击安装。
-
-**方式二：命令行**
+**方式一：命令行（现在就能用）**
 
 ```bash
+# 直接从 GitHub 仓库安装（尚未发布到 npm 时用这个）
+dsh plugin --profile desktop add github:Looriann/dsh-cost-ledger
+```
+
+```bash
+# 发布到 npm 之后也可以用包名
 dsh plugin --profile desktop add @looriann/dsh-cost-ledger
 ```
+
+**方式二：插件商场** —— 上架 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 精选列表后，在市场里搜索 `cost-ledger` 即可安装（收录通常需要一天）。目前**尚未收录**，所以暂时搜不到，请先用上面的命令行方式。
 
 装完**重启 DSH**，浏览器 `Ctrl+Shift+R` 硬刷新。打开任意会话，顶部标签栏会多一个「费用」。
 
@@ -140,7 +146,7 @@ npm run seed       # 从抓取结果重建随包价目表
 npm run rename     # 一键改包名（换 npm 作用域时用）
 ```
 
-零依赖，不需要 `npm install`。设计文档与计价口径见 [DESIGN.md](DESIGN.md)，贡献方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+零依赖，不需要 `npm install`。贡献方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 路线图
 
