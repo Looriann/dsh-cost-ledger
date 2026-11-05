@@ -1,13 +1,12 @@
 # dsh-cost-ledger
 
+
 > **DSH 的「费用」标签页：按天、按模型看 token 花了多少钱。**
 > 它认的不只是 DeepSeek —— 同一份权重经百炼、官方、第三方转售卖出，价格不同，它都记得准；
 > 界面照着 DeepSeek 官方控制台做：按天堆叠柱状图、鼠标一悬停就看到当天明细。
 
-<!--
-截图占位：截一张「费用」标签页存为 docs/screenshot.png，然后把下面这行取消注释。
-![费用标签页](docs/screenshot.png)
--->
+
+![费用标签页](images/screenshot.png)
 
 ---
 
