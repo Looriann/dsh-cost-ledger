@@ -42,19 +42,18 @@
 
 ## 安装
 
-**方式一：命令行（现在就能用）**
+**方式一：插件商场** —— 已收录进 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 精选列表（[PR #14476](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/14476)），在市场里搜索 `cost-ledger` 即可安装。目录每天重建一次，刚合并后可能需要等一天才搜得到。
+
+**方式二：命令行**
 
 ```bash
-# 直接从 GitHub 仓库安装（尚未发布到 npm 时用这个）
-dsh plugin --profile desktop add github:Looriann/dsh-cost-ledger
-```
-
-```bash
-# 发布到 npm 之后也可以用包名
 dsh plugin --profile desktop add @looriann/dsh-cost-ledger
 ```
 
-**方式二：插件商场** —— 上架 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 精选列表后，在市场里搜索 `cost-ledger` 即可安装（收录通常需要一天）。目前**尚未收录**，所以暂时搜不到，请先用上面的命令行方式。
+```bash
+# 或直接从 GitHub 仓库安装
+dsh plugin --profile desktop add github:Looriann/dsh-cost-ledger
+```
 
 装完**重启 DSH**，浏览器 `Ctrl+Shift+R` 硬刷新。打开任意会话，顶部标签栏会多一个「费用」。
 

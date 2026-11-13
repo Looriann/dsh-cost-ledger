@@ -2,6 +2,14 @@
 
 本项目的版本遵循 [语义化版本](https://semver.org/lang/zh-CN/)，变更记录参考 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)。
 
+## [0.1.1] - 2026-11-13
+
+### 变更
+
+- 已收录进 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 精选列表（PR #14476），插件市场可直接搜索安装
+- README 安装说明改为「市场优先」，并去掉「尚未收录」的过期提示
+- 新增 `screenshots.json`，让市场详情页能展示截图
+
 ## [0.1.0] - 2026-11-05
 
 首个公开版本。目标只有一个：**让每个数字都能说清出处**。

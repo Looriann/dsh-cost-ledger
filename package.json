@@ -1,6 +1,6 @@
 {
   "name": "@looriann/dsh-cost-ledger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DSH 插件：会认「服务商 + 模型」的 token 费用账本。按天图表对齐 DeepSeek 官方控制台，内置阿里百炼官方价目表，查不到价的模型留空手填，绝不瞎猜。",
   "type": "module",
   "main": "lib/index.js",
